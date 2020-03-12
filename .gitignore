@@ -1,0 +1,5 @@
+# vim temp
+.*.sw?
+
+# python artifacts
+*.py?
